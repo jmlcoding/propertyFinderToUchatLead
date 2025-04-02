@@ -1,0 +1,51 @@
+2025/04/02-16:56:59.471 48d8 Reusing MANIFEST C:\Users\Sarco\Desktop\wtsp\wt\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/02-16:56:59.472 48d8 Recovering log #722
+2025/04/02-16:56:59.536 48d8 Reusing old log C:\Users\Sarco\Desktop\wtsp\wt\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000722.log 
+2025/04/02-16:57:01.242 48d8 Level-0 table #742: started
+2025/04/02-16:57:01.268 48d8 Level-0 table #742: 589038 bytes OK
+2025/04/02-16:57:01.271 48d8 Delete type=0 #722
+2025/04/02-16:57:01.274 8f8 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 2911171 : 1
+2025/04/02-16:57:01.275 8f8 Compacting 1@0 + 0@1 files
+2025/04/02-16:57:01.299 8f8 Generated table #743@0: 12658 keys, 258689 bytes
+2025/04/02-16:57:01.304 8f8 Generated table #744@0: 491 keys, 6980 bytes
+2025/04/02-16:57:01.304 8f8 Compacted 1@0 + 0@1 files => 265669 bytes
+2025/04/02-16:57:01.305 8f8 compacted to: files[ 0 2 15 0 0 0 0 ]
+2025/04/02-16:57:01.306 8f8 Delete type=2 #742
+2025/04/02-16:57:01.308 8f8 Manual compaction at level-0 from '\x009\x00\x00\x05' @ 2911171 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/02-16:57:02.829 bcc Compacting 1@1 + 10@2 files
+2025/04/02-16:57:02.912 bcc Generated table #745@1: 52164 keys, 2211508 bytes
+2025/04/02-16:57:02.943 bcc Generated table #746@1: 2795 keys, 2134505 bytes
+2025/04/02-16:57:02.964 bcc Generated table #747@1: 1857 keys, 2132485 bytes
+2025/04/02-16:57:03.004 bcc Generated table #748@1: 21239 keys, 2187505 bytes
+2025/04/02-16:57:03.035 bcc Generated table #749@1: 11149 keys, 2145426 bytes
+2025/04/02-16:57:03.055 bcc Generated table #750@1: 1985 keys, 2125398 bytes
+2025/04/02-16:57:03.122 bcc Generated table #751@1: 69054 keys, 2208282 bytes
+2025/04/02-16:57:03.208 bcc Generated table #752@1: 108919 keys, 2259353 bytes
+2025/04/02-16:57:03.281 bcc Generated table #753@1: 107839 keys, 2257776 bytes
+2025/04/02-16:57:03.358 bcc Generated table #754@1: 108954 keys, 2260336 bytes
+2025/04/02-16:57:03.365 bcc Generated table #755@1: 4852 keys, 102995 bytes
+2025/04/02-16:57:03.365 bcc Compacted 1@1 + 10@2 files => 22025569 bytes
+2025/04/02-16:57:03.366 bcc compacted to: files[ 0 1 16 0 0 0 0 ]
+2025/04/02-16:58:37.868 bcc Compacting 1@1 + 5@2 files
+2025/04/02-16:58:37.955 bcc Generated table #756@1: 106937 keys, 2257090 bytes
+2025/04/02-16:58:38.024 bcc Generated table #757@1: 109128 keys, 2259166 bytes
+2025/04/02-16:58:38.100 bcc Generated table #758@1: 106056 keys, 2238709 bytes
+2025/04/02-16:58:38.100 bcc Compacted 1@1 + 5@2 files => 6754965 bytes
+2025/04/02-16:58:38.100 bcc compacted to: files[ 0 0 14 0 0 0 0 ]
+2025/04/02-16:58:38.101 bcc Delete type=2 #717
+2025/04/02-16:58:38.101 bcc Delete type=2 #726
+2025/04/02-16:58:38.101 bcc Delete type=2 #727
+2025/04/02-16:58:38.101 bcc Delete type=2 #728
+2025/04/02-16:58:38.101 bcc Delete type=2 #729
+2025/04/02-16:58:38.101 bcc Delete type=2 #730
+2025/04/02-16:58:38.101 bcc Delete type=2 #731
+2025/04/02-16:58:38.101 bcc Delete type=2 #732
+2025/04/02-16:58:38.101 bcc Delete type=2 #733
+2025/04/02-16:58:38.101 bcc Delete type=2 #734
+2025/04/02-16:58:38.101 bcc Delete type=2 #735
+2025/04/02-16:58:38.101 bcc Delete type=2 #736
+2025/04/02-16:58:38.101 bcc Delete type=2 #737
+2025/04/02-16:58:38.101 bcc Delete type=2 #738
+2025/04/02-16:58:38.101 bcc Delete type=2 #739
+2025/04/02-16:58:38.101 bcc Delete type=2 #743
+2025/04/02-16:58:38.101 bcc Delete type=2 #744

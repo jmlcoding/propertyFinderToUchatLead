@@ -1,0 +1,4 @@
+2025/04/02-16:35:25.762 cbf0 Reusing MANIFEST C:\Users\Sarco\Desktop\wtsp\wt\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/02-16:35:25.762 cbf0 Recovering log #722
+2025/04/02-16:35:25.794 cbf0 Reusing old log C:\Users\Sarco\Desktop\wtsp\wt\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000722.log 
+2025/04/02-16:35:32.344 cbf0 Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
