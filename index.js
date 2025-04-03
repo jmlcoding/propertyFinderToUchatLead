@@ -44,8 +44,8 @@ client.on("message", async (message) => {
         const PhoneNumber = await extractPhoneNumber(await getFinalUrl(links[0]));
         console.log(`Extracted Phone Number: ${PhoneNumber}`);
         await delay(4000); 
-        await sendToUChat(PhoneNumber, referenceNumber, isArabic);
-        console.log(`Message sent to UChat with Phone Number: ${PhoneNumber}, Reference Number: ${referenceNumber}, Language: ${isArabic}`);
+        // await sendToUChat(PhoneNumber, referenceNumber, isArabic);
+        // console.log(`Message sent to UChat with Phone Number: ${PhoneNumber}, Reference Number: ${referenceNumber}, Language: ${isArabic}`);
       } else {
         console.log("No links found.");
       }
